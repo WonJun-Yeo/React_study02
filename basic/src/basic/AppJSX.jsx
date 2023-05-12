@@ -1,4 +1,4 @@
-import './App.css';
+import '../App.css';
 
 function AppJSX() {
   const name = 'wonjun.yeo';
