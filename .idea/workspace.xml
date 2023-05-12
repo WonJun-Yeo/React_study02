@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c85b92d-a429-40af-981e-8dfcfcad75b6" name="Changes" comment="&lt;feat&gt; add counter components">
-      <change beforePath="$PROJECT_DIR$/basic/src/AppJSX.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/AppJSX.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/src/components/Counter.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/components/Counter.jsx" afterDir="false" />
+    <list default="true" id="0c85b92d-a429-40af-981e-8dfcfcad75b6" name="Changes" comment="&lt;feat&gt; add total count">
+      <change afterPath="$PROJECT_DIR$/basic/src/AppProducts.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/components/Products.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/basic/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,7 +87,7 @@
       <workItem from="1683872190796" duration="603000" />
       <workItem from="1683872816678" duration="113000" />
       <workItem from="1683873078160" duration="849000" />
-      <workItem from="1683879618302" duration="3256000" />
+      <workItem from="1683879618302" duration="3867000" />
     </task>
     <task id="LOCAL-00001" summary="re-study setting">
       <created>1683867387990</created>
@@ -136,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683884373029</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="&lt;feat&gt; add total count">
+      <created>1683894659441</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1683894659441</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,6 +170,7 @@
     <MESSAGE value="&lt;feat&gt; add Profile component" />
     <MESSAGE value="&lt;fix&gt; Detach Avatar Components" />
     <MESSAGE value="&lt;feat&gt; add counter components" />
-    <option name="LAST_COMMIT_MESSAGE" value="&lt;feat&gt; add counter components" />
+    <MESSAGE value="&lt;feat&gt; add total count" />
+    <option name="LAST_COMMIT_MESSAGE" value="&lt;feat&gt; add total count" />
   </component>
 </project>

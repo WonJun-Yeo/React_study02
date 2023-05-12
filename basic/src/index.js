@@ -2,12 +2,12 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './App.css';
 import reportWebVitals from './reportWebVitals';
-import CountJsx from "./CountJSX";
+import AppProducts from "./AppProducts";
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <CountJsx />
+    <AppProducts />
   </React.StrictMode>
 );
 
