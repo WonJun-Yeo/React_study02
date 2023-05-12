@@ -8,8 +8,8 @@ function AppJSX() {
         <h1>Hello {name}</h1>
         <ul>
           {
-            list.map(item => (
-                <li>{item}</li>
+            list.map((item, index) => (
+                <li key={index}>{item}</li>
             ))
           }
         </ul>
